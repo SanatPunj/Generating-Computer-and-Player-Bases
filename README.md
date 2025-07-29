@@ -1,3 +1,1 @@
-# Project 23
-
-Project Solution 23
+Player and computer bases for a game created
